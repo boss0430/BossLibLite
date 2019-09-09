@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:2:5-35
+		INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
+		INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
+		ADDED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:1:1-17:12
+		INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
+		ADDED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:1:1-17:12
+		INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:10:5-16:43
+	android:supportsRtl
+		ADDED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml:16:9-40
+uses-sdk
+INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
+INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
+INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
+INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
+		ADDED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
+		INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
+		ADDED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
+		INJECTED from C:\workspaceAndroidStudio\BossLibLite\AndroidManifest.xml
