@@ -55,13 +55,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3558ddca-4df5-49d7-bec9-bdcc742b9216" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/boss0430/bosslib/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/boss0430/bosslib/location/LocationAsyncTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/boss0430/bosslib/location/LocationConverter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/boss0430/bosslib/location/LocationTaskInformer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/boss0430/bosslib/utils/Dlog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/boss0430/bosslib/utils/Dlog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <ignored path=".gradle/" />
+    <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/boss0430/bosslib/utils/Dlog.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="206" column="22" lean-forward="true" selection-start-line="206" selection-start-column="22" selection-end-line="206" selection-end-column="22" />
+              <caret line="206" column="22" selection-start-line="206" selection-start-column="22" selection-end-line="206" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,6 +129,7 @@
     <option name="files">
       <list>
         <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -143,7 +141,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -152,81 +150,28 @@
         <subPane>
           <expand>
             <path>
-              <item name="BossLIb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BossLIb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BossLibLite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BossLibLite" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="BossLibLite" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BossLibLite" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="BossLibLite" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BossLibLite" type="feadf853:AndroidModuleNode" />
-              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
-            </path>
-            <path>
-              <item name="BossLibLite" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BossLibLite" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="BossLibLite" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BossLibLite" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BossLibLite" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BossLibLite" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="boss0430" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BossLibLite" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BossLibLite" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="boss0430" type="462c0819:PsiDirectoryNode" />
-              <item name="bosslib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BossLibLite" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BossLibLite" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="boss0430" type="462c0819:PsiDirectoryNode" />
-              <item name="bosslib" type="462c0819:PsiDirectoryNode" />
-              <item name="constants" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BossLibLite" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="dlog&#9;PSI&#9;JAVA://com.boss0430.bosslib.utils.Dlog" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -275,6 +220,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info id="Resources Explorer" order="8" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" weight="0.3292683" />
       <window_info anchor="bottom" id="Run" order="0" />
       <window_info anchor="bottom" id="Logcat" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" />
@@ -284,7 +230,7 @@
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Build" order="9" visible="true" weight="0.36954314" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.3699187" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
@@ -331,7 +277,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/boss0430/bosslib/utils/Dlog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="206" column="22" lean-forward="true" selection-start-line="206" selection-start-column="22" selection-end-line="206" selection-end-column="22" />
+          <caret line="206" column="22" selection-start-line="206" selection-start-column="22" selection-end-line="206" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
